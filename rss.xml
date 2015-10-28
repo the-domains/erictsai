@@ -2,14 +2,34 @@
     <channel>
         <title><![CDATA[ET View on the World]]></title>
         <description><![CDATA[ET View on the World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/erictsai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 17:35:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 18:40:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erictsai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 2]]></title>
+            <description><![CDATA[<h1>Test 2</h1>]]></description>
+            <link>https://thegrid.ai/erictsai/test-2/index.html</link>
+            <guid isPermaLink="false">5cc9a7cf-1f5a-4d1b-956d-b546b71861c0</guid>
+            <pubDate>Wed, 28 Oct 2015 18:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<h1>Test</h1>]]></description>
+            <link>https://thegrid.ai/erictsai/test/index.html</link>
+            <guid isPermaLink="false">ae2d24a9-8632-49fe-a379-b9aab06b53e6</guid>
+            <pubDate>Wed, 28 Oct 2015 17:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/erictsai/ad4431ed-83e4-486f-bcf4-ee83f12c8486/index.html</link>
+            <guid isPermaLink="false">ad4431ed-83e4-486f-bcf4-ee83f12c8486</guid>
+            <pubDate>Wed, 28 Oct 2015 17:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let's start]]></title>
             <description><![CDATA[<h1>Let's start</h1>]]></description>
-            <link>undefinedlets-start/index.html</link>
+            <link>https://thegrid.ai/erictsai/lets-start/index.html</link>
             <guid isPermaLink="false">5e698390-db66-41dd-adb0-0481e158215b</guid>
             <pubDate>Wed, 28 Oct 2015 17:35:09 GMT</pubDate>
         </item>
